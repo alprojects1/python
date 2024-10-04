@@ -1,7 +1,3 @@
-# python
-Collection of code, apps, automation
-
-
 ## Python Wiki:
 
 **Python is an open-source, high-level programming language known for its simplicity and versatility. Designed by Guido van Rossum in 1991, in Haarlem, the Netherlands. Of course, Guido van Rossum did not develop and evolve all the Python components himself**. It has a massive standard library, making it adaptable to countless applications. 
@@ -66,4 +62,4 @@ PyCharm comes in two versions: Community Edition (`open-source`) and Professiona
 
 ##
 > One Cool Thing About Python and PyCharm: Python's versatility is what makes it unique. From simple automation scripts to large-scale machine learning projects, Python can do it all. Combined with PyCharm, you get an all-in-one IDE that enhances productivity, whether you're building a web app, processing large datasets, or testing new machine learning algorithms. With Jupyter Notebook integration in PyCharm Professional, scientific and data-driven tasks are even more accessible, making it a top choice for data scientists and developers alike.
->>>>>>> 2736676 (moved .py files into repo)
+
